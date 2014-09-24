@@ -1,0 +1,16 @@
+
+@media (min-width: 1240px) {
+
+  .social-buttons {
+    position: absolute;
+    top: 160px;
+    margin-left: 740px;
+    margin-top:20px;
+
+  }
+
+  .fixed {
+    position: fixed;
+    top: 0px;
+  }
+}
